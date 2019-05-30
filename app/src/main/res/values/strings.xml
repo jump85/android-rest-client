@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHub REST Client</string>
+    <string name="prima_app">Restituisce i progetti GitHub relativi all\' utente indicato</string>
+    <string name="ok_button">OK</string>
+</resources>
